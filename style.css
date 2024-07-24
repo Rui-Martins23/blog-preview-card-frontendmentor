@@ -69,10 +69,24 @@ body {
 }
 
 .author img {
-    width: 40px;
+    width: 2.5rem;
     padding-right: 1rem;
 }
 
 span {
     font-weight: bold;
+}
+
+@media (max-width: 375px) {
+    body {
+        font-size: 0.90rem;
+    }
+
+    .main-div {
+        margin: 1rem;
+    }
+
+    .title h1 {
+        font-size: 1.25rem;
+    }
 }
