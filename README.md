@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [still to be added]
+- Live Site URL: [https://rui-martins23.github.io/blog-preview-card-frontendmentor/]
 
 ## My process
 
